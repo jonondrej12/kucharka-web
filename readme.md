@@ -14,7 +14,15 @@ Jednoduchá webová aplikace pro sdílení a prohlížení receptů.
 - může procházet recepty podle kategorií  
 
 ### Přihlášený uživatel:
-- může vytvářet nové recepty  
+- může vytvářet nové recepty
+
+## Použité technologie
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL databáze
 
 ## Spuštění projektu
 
