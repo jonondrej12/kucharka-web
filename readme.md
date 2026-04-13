@@ -20,7 +20,7 @@ Jednoduchá webová aplikace pro sdílení a prohlížení receptů.
 
 1. Naklonuj repozitář:
 ```
-git clone <url-repozitare>
+git clone https://github.com/jonondrej12/kucharka-web.git
 ```
 
 2. Spusť XAMPP a zapni:
